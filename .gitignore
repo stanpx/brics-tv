@@ -2,3 +2,9 @@
 .kino-cookies.json
 .kino-storage.json
 .kino-secrets.json
+sdk/config.json
+
+# Private author signing keys (CRITICAL: never commit or share)
+*.pem
+kino-author-key.pem
+

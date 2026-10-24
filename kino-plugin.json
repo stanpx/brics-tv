@@ -1,7 +1,7 @@
 {
   "id": "brics-tv",
   "name": "BRICS TV (Otro mundo)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "apiVersion": 6,
   "entry": "plugin.js",
   "description": "Señales de TV internacionales de acceso público: noticias y cultura de los países BRICS y otros medios soberanos. Incluye TV BRICS (Español e Inglés), RT, Telesur, CGTN, Canal 22, Cubavisión, TV Brasil, Al Jazeera, TRT World, Qatar TV, PressTV, IRIB, Nile TV, SABC News y más.",
@@ -55,7 +55,11 @@
     "edgenextcdn.net",
     "*.edgenextcdn.net",
     "mangomolo.com",
-    "*.mangomolo.com"
+    "*.mangomolo.com",
+    "getaj.net",
+    "*.getaj.net",
+    "amagi.tv",
+    "*.amagi.tv"
   ],
   "capabilities": [
     "home",
@@ -72,6 +76,6 @@
   "icon": "icon.png",
   "signature": {
     "authorKey": "5dd7d359836206165abcf91bd1a8ebb4c1ce1e8fc1e665a7bf31d3b10ad13f44",
-    "value": "a0b65a5b802ea1b49029f8da7a5173ec9f5ad80145980234ed13ebe195a6395f0cb5ba7af0543b9ac384b0425a82655537f42190fe06dca1492528cd20c0d20f"
+    "value": "1b63b3ae04b0ca79542f964c34d7399524e2bbf0ec50cc68e8cd8faa324d340a0bbf541ef31d42c1a4d79c279c4267490f47e8a1bc15781b16022beb4733d50b"
   }
 }

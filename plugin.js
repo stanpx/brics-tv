@@ -26,7 +26,7 @@ const CHANNELS = [
     id: "cgtn-espanol",
     title: "CGTN (Español)",
     country: "China",
-    url: "https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=343e377a340c48b5b2111bcf92bbda21&wsTime=1792847235",
+    url: "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/2/23/CGTN_Spanish_logo.svg",
     categories: ["destacados", "brics-global", "asia-pacifico"]
   },
@@ -59,6 +59,7 @@ const CHANNELS = [
     id: "al-jazeera",
     title: "Al Jazeera",
     country: "Catar",
+    url: "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
     youtubeUrl: "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live",
     logo: "https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",
     categories: ["destacados", "eurasia-oriente"]
@@ -244,7 +245,7 @@ const CHANNELS = [
     id: "rt-espanol",
     title: "RT Español",
     country: "Rusia",
-    url: "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+    url: "https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg",
     categories: ["destacados", "brics-global", "eurasia-oriente"]
   },
@@ -275,9 +276,6 @@ const CHANNELS = [
 ];
 
 function channelRef(channel) {
-  if (channel.youtubeUrl) {
-    return "youtube:" + channel.youtubeUrl;
-  }
   return "canal:" + channel.id;
 }
 

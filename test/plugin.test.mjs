@@ -25,7 +25,7 @@ test("Kino accepts the manifest and exports", async () => {
   assert.deepEqual(r.problems, []);
   assert.equal(r.ok, true);
   assert.equal(manifest.id, "brics-tv");
-  assert.equal(manifest.version, "0.1.1");
+  assert.equal(manifest.version, "0.1.2");
   assert.equal(manifest.apiVersion, 6);
 });
 

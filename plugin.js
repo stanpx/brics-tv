@@ -51,7 +51,7 @@ const CHANNELS = [
     id: "tv-brasil",
     title: "TV Brasil",
     country: "Brasil",
-    url: "https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8",
+    url: "https://tvbrasil-stream.ebc.com.br/index.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/b/b9/TV_Brasil_logo_2023.svg",
     categories: ["destacados", "america-latina", "brics-global"]
   },

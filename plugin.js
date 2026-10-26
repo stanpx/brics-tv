@@ -209,6 +209,14 @@ const CHANNELS = [
     categories: ["destacados", "eurasia-oriente", "brics-global"]
   },
   {
+    id: "hispantv",
+    title: "HispanTV",
+    country: "Irán / América Latina",
+    url: "https://live.presstv.ir/hls/hispantv.m3u8",
+    logo: "https://thumbnails.odycdn.com/optimize/s:200:0/quality:95/plain/https://thumbs.odycdn.com/ee57582aee103d1ce9845d789c4812c1.png",
+    categories: ["destacados", "america-latina", "eurasia-oriente", "brics-global"]
+  },
+  {
     id: "hispantv-nexo-latino",
     title: "HispanTV - Nexo Latino",
     country: "Irán / América Latina",

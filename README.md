@@ -18,6 +18,7 @@ Plugin público y firmado para [Kino TV](https://kinotvapp.github.io/kino-plugin
 - **Canal 22 (Argentina)**
 - **Cubavisión Internacional (Cuba)**
 - **Bolivia TV (Bolivia)**
+- **HispanTV**
 - **HispanTV - Nexo Latino**
 
 ### Eurasia y Medio Oriente

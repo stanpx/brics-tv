@@ -30,6 +30,7 @@ Plugin público y firmado para [Kino TV](https://kinotvapp.github.io/kino-plugin
 - **Dubai International HD (Emiratos Árabes Unidos)**
 - **Qatar TV (Señales 1 y 2)**
 - **Al Ekhbariya (Arabia Saudita)**
+- **IRIB (Señales 1, 2, 3, 4 y Mostanad) (Irán)**
 
 ### Asia y el Pacífico
 - **NBT THAI y NBT2 THAI (Tailandia)**

@@ -70,7 +70,7 @@ const CHANNELS = [
     country: "Tailandia",
     url: "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/d/d4/NBT_2025.svg",
-    categories: ["asia-pacifico"]
+    categories: ["asia-pacifico", "brics-global"]
   },
   {
     id: "nbt2-thai",
@@ -78,7 +78,7 @@ const CHANNELS = [
     country: "Tailandia",
     url: "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/d/d4/NBT_2025.svg",
-    categories: ["asia-pacifico"]
+    categories: ["asia-pacifico", "brics-global"]
   },
   {
     id: "ubc-uganda",
@@ -86,7 +86,7 @@ const CHANNELS = [
     country: "Uganda",
     url: "https://channels.ad-ug.com/live/ch03/index.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/a/af/UBC.png",
-    categories: ["africa"]
+    categories: ["africa", "brics-global"]
   },
   {
     id: "belarus-24-hd",
@@ -94,7 +94,7 @@ const CHANNELS = [
     country: "Bielorrusia",
     url: "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/d/de/Belarus_24_logo.svg",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "belarus-24-sd",
@@ -102,7 +102,7 @@ const CHANNELS = [
     country: "Bielorrusia",
     url: "http://ott-7.sevstar.net/belarus24/index.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/d/de/Belarus_24_logo.svg",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "belarus-1",
@@ -110,7 +110,7 @@ const CHANNELS = [
     country: "Bielorrusia",
     url: "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/d/de/Belarus_24_logo.svg",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "uzreport-tv",
@@ -118,7 +118,7 @@ const CHANNELS = [
     country: "Uzbekistán",
     url: "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/ru/5/57/Uzreport_TV_logo.png",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "tvri-indonesia",
@@ -126,7 +126,7 @@ const CHANNELS = [
     country: "Indonesia",
     url: "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/6/64/TVRI-World.svg",
-    categories: ["asia-pacifico"]
+    categories: ["asia-pacifico", "brics-global"]
   },
   {
     id: "tvri-world",
@@ -134,7 +134,7 @@ const CHANNELS = [
     country: "Indonesia",
     url: "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/6/64/TVRI-World.svg",
-    categories: ["asia-pacifico"]
+    categories: ["asia-pacifico", "brics-global"]
   },
   {
     id: "trt-world",
@@ -142,7 +142,7 @@ const CHANNELS = [
     country: "Turquía",
     url: "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/2/27/TRT_World.svg",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "bolivia-tv",
@@ -150,7 +150,7 @@ const CHANNELS = [
     country: "Bolivia",
     url: "http://190.181.61.93:8000/play/a001/index.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png",
-    categories: ["america-latina"]
+    categories: ["america-latina", "brics-global"]
   },
   {
     id: "vietnam-today",
@@ -158,7 +158,7 @@ const CHANNELS = [
     country: "Vietnam",
     url: "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/d/d8/VietnamTodayVTV.svg",
-    categories: ["asia-pacifico"]
+    categories: ["asia-pacifico", "brics-global"]
   },
   {
     id: "nta-international",
@@ -166,7 +166,7 @@ const CHANNELS = [
     country: "Nigeria",
     url: "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/en/1/1c/Logo_of_the_Nigerian_Television_Authority.png",
-    categories: ["africa"]
+    categories: ["africa", "brics-global"]
   },
   {
     id: "thai-pbs",
@@ -174,7 +174,7 @@ const CHANNELS = [
     country: "Tailandia",
     url: "https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Thai_PBS_Logo_2016.svg",
-    categories: ["asia-pacifico"]
+    categories: ["asia-pacifico", "brics-global"]
   },
   {
     id: "dubai-international-hd",
@@ -182,7 +182,7 @@ const CHANNELS = [
     country: "Emiratos Árabes Unidos",
     url: "http://185.9.2.18/chid_139/index.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/1/10/Dubai_TV_Logo.svg",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "qatar-tv-1",
@@ -190,7 +190,7 @@ const CHANNELS = [
     country: "Catar",
     url: "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/en/8/88/Qatar_TV_logo.png",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "qatar-tv-2",
@@ -198,7 +198,7 @@ const CHANNELS = [
     country: "Catar",
     url: "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/en/8/88/Qatar_TV_logo.png",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "presstv",
@@ -226,12 +226,52 @@ const CHANNELS = [
     categories: ["america-latina"]
   },
   {
+    id: "irib-1",
+    title: "IRIB 1",
+    country: "Irán",
+    url: "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/d/d7/IRIBTV1.svg",
+    categories: ["eurasia-oriente", "brics-global"]
+  },
+  {
+    id: "irib-2",
+    title: "IRIB 2",
+    country: "Irán",
+    url: "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/3/36/%D8%B4%D8%A8%DA%A9%D9%87_%D8%AF%D9%88_tv2.png",
+    categories: ["eurasia-oriente", "brics-global"]
+  },
+  {
+    id: "irib-3",
+    title: "IRIB 3",
+    country: "Irán",
+    url: "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/6/6d/IRIB_TV3_LOGO.svg",
+    categories: ["eurasia-oriente", "brics-global"]
+  },
+  {
+    id: "irib-4",
+    title: "IRIB 4",
+    country: "Irán",
+    url: "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_TV4_logo.svg",
+    categories: ["eurasia-oriente", "brics-global"]
+  },
+  {
+    id: "irib-mostanad",
+    title: "IRIB Mostanad",
+    country: "Irán",
+    url: "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
+    logo: "https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png",
+    categories: ["eurasia-oriente", "brics-global"]
+  },
+  {
     id: "nile-tv-egypt",
     title: "Nile TV Egypt",
     country: "Egipto",
     url: "http://185.9.2.18/chid_352/index.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Nile_TV.jpg",
-    categories: ["africa"]
+    categories: ["africa", "brics-global"]
   },
   {
     id: "tv-brics-espanol",
@@ -247,7 +287,7 @@ const CHANNELS = [
     country: "Etiopía",
     url: "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/en/b/ba/EBS_TV_%28Ethiopia%29.png",
-    categories: ["africa"]
+    categories: ["africa", "brics-global"]
   },
   {
     id: "rt-espanol",
@@ -263,7 +303,7 @@ const CHANNELS = [
     country: "Arabia Saudita",
     url: "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/e/e3/%D8%A7%D9%84%D9%82%D9%86%D8%A7.png",
-    categories: ["eurasia-oriente"]
+    categories: ["eurasia-oriente", "brics-global"]
   },
   {
     id: "sabc-news",
